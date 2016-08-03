@@ -1,0 +1,63 @@
+﻿-----------------------------------------------------------
+Time: 01/07/2016 04:44:09 PM
+Message: The method or operation is not implemented.
+Source: FlooringProject.Data
+TargetSite: System.Collections.Generic.List`1[FlooringProject.Models.Order] GetAllOrdersByDate(System.String)
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Time: 01/07/2016 04:44:44 PM
+Message: The method or operation is not implemented.
+Source: FlooringProject.Data
+TargetSite: System.Collections.Generic.List`1[FlooringProject.Models.Order] GetAllOrdersByDate(System.String)
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Time: 01/07/2016 05:05:48 PM
+Message: The method or operation is not implemented.
+Source: FlooringProject.Data
+TargetSite: System.Collections.Generic.List`1[FlooringProject.Models.Order] GetAllOrdersByDate(System.String)
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Time: 01/07/2016 05:07:26 PM
+Message: The method or operation is not implemented.
+Source: FlooringProject.Data
+TargetSite: System.Collections.Generic.List`1[FlooringProject.Models.Order] GetAllOrdersByDate(System.String)
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Time: 01/07/2016 05:08:10 PM
+Message: The method or operation is not implemented.
+Source: FlooringProject.Data
+TargetSite: System.Collections.Generic.List`1[FlooringProject.Models.Order] GetAllOrdersByDate(System.String)
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Time: 01/07/2016 06:21:18 PM
+Message: The method or operation is not implemented.
+Source: FlooringProject.Data
+TargetSite: System.Collections.Generic.List`1[FlooringProject.Models.Order] GetAllOrdersByDate(System.String)
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Time: 01/07/2016 06:24:13 PM
+Message: The method or operation is not implemented.
+Source: FlooringProject.Data
+TargetSite: System.Collections.Generic.List`1[FlooringProject.Models.Order] GetAllOrdersByDate(System.String)
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Time: 02/07/2016 10:28:00 PM
+Message: The type initializer for 'FlooringProject.Data.FileRepository' threw an exception.
+Source: FlooringProject.Data
+TargetSite: Void .ctor()
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Time: 04/07/2016 12:15:24 PM
+Message: The type initializer for 'FlooringProject.Data.FileRepository' threw an exception.
+Source: FlooringProject.Data
+TargetSite: Void .ctor()
+-----------------------------------------------------------
+

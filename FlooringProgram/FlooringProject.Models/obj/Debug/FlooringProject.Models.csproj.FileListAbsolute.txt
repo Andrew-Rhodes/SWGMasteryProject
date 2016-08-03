@@ -1,0 +1,5 @@
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\FlooringProject.Models\bin\Debug\FlooringProject.Models.dll
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\FlooringProject.Models\bin\Debug\FlooringProject.Models.pdb
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\FlooringProject.Models\obj\Debug\FlooringProject.Models.csprojResolveAssemblyReference.cache
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\FlooringProject.Models\obj\Debug\FlooringProject.Models.dll
+c:\users\apprentice\documents\visual studio 2015\Projects\FlooringProgram\FlooringProject.Models\obj\Debug\FlooringProject.Models.pdb
